@@ -1,4 +1,4 @@
-![DevLinks - Google Chrome 02_05_2024 11_32_08](https://github.com/Ch4yon/projeto/assets/138182230/01cebba4-e65a-4163-84b4-28e64edf6d97)
+
 
 <h1 align="center">DevLinks </h1>
 
@@ -13,11 +13,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
+
 ![DevLinks - Google Chrome 02_05_2024 11_34_45](https://github.com/Ch4yon/projeto/assets/138182230/c4e627fd-e6b7-428f-bea0-31aa7b97225b)
 ![DevLinks - Google Chrome 02_05_2024 11_32_08](https://github.com/Ch4yon/projeto/assets/138182230/08559bdc-6fe6-482f-8613-de207784f57f)
 
-</p>
 
 <br>
 
