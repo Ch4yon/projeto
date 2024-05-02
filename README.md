@@ -12,10 +12,9 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="![DevLinks - Google Chrome 02_05_2024 11_32_08](https://github.com/Ch4yon/projeto/assets/138182230/680f60ec-c312-435e-83bb-87ab2324cbf6)
-">
-  <img alt="License" src="![DevLinks - Google Chrome 02_05_2024 11_34_45](https://github.com/Ch4yon/projeto/assets/138182230/9ea9ae99-5b21-458c-96e6-7b1810f47e19)
-">
+![DevLinks - Google Chrome 02_05_2024 11_34_45](https://github.com/Ch4yon/projeto/assets/138182230/c4e627fd-e6b7-428f-bea0-31aa7b97225b)
+![DevLinks - Google Chrome 02_05_2024 11_32_08](https://github.com/Ch4yon/projeto/assets/138182230/08559bdc-6fe6-482f-8613-de207784f57f)
+
 </p>
 
 <br>
